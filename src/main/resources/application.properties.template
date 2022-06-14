@@ -1,0 +1,4 @@
+spring.redis.password=changeme
+spring.redis.sentinel.password=changeme
+spring.redis.sentinel.master=master01
+spring.redis.sentinel.nodes=127.0.0.1:26379,127.0.0.1:26380,127.0.0.1:26381
